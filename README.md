@@ -29,40 +29,44 @@ I learn by building: homelab VMs, provisioning scripts, REST API backends, open-
   <img src="https://img.shields.io/badge/RHEL%209%2F10-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Fundamentals-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
 </p>
 
-Users and groups · Permissions · SSH · SELinux · firewalld/UFW · LVM · NFS · cron · systemd · Package management · Log diagnostics
+Users and groups · Permissions · SSH · SELinux · firewalld · UFW · LVM · NFS · cron · systemd · Package management · Service management · Log diagnostics
 
-### Automation & DevOps
+### Automation, Containers & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker%20Basics-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Podman%20Basics-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-Ansible playbooks · Inventories · Roles · Variables · Handlers · Vault · Validation scripts · Service checks
+Ansible playbooks · Inventories · Roles · Variables · Handlers · Vault · YAML · Bash automation · Validation scripts · Reboot and service checks
 
-### Cloud & Databases
+### Cloud Platforms
 
 <p>
   <img src="https://img.shields.io/badge/AWS%20Fundamentals-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/DocumentDB-527FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20DocumentDB-527FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
-### Backend & API Testing
+Basic virtual-machine deployment · Identity and access concepts · Security groups · Storage · Environment configuration · Database connectivity
+
+### Backend, Databases & APIs
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -78,25 +82,25 @@ Ansible playbooks · Inventories · Roles · Variables · Handlers · Vault · V
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
 
-### Virtualization & Development Tools
+### Infrastructure & Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-### AI & LLM Tools — Learning and Practical Use
+### AI & LLM Tools
 
 <p>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex%20CLI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex%20CLI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-Used for debugging support, repository exploration, documentation review, and learning open-source LLM workflows.
-
+Actively learning open-source LLM workflows and using AI tools for debugging, repository exploration, and technical documentation review.
 ---
 
 ## 📂 Featured Projects
