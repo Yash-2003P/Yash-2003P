@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Yuvan%20Pratap%20Singh%20Hada&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=RHCSA%20%7C%20RHCE%20%7C%20Linux%20Infra%20%7C%20DevOps%20%7C%20AI%20Infrastructure&descSize=15&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Yasharth%20Panwar&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=RHCSA%20%7C%20RHCE%20%7C%20Linux%20Infra%20%7C%20DevOps%20%7C%20AI%20Infrastructure&descSize=15&descAlignY=75" />
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ypsh2304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ypsh2304&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
+  <a href="https://www.linkedin.com/in//Yash-2003P"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Yash-2003P&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
 </p>
 
 ---
