@@ -88,22 +88,6 @@ Full appointment workflow API: JWT authentication, student/professor role separa
 
 ---
 
-### 🤖 [RHEL_Project](https://github.com/Ypsh2304/RHEL_Project) — RHEL Infra Management via AI Agents
-
-Experimenting with LLM-powered agents that interpret infrastructure intent and assist with RHEL system operations — an early exploration of agentic DevOps tooling.
-
-`Python` · `RHEL` · `Ansible` · `LLM agents`
-
----
-
-### 🔍 [mal_rag](https://github.com/Ypsh2304/mal_rag) — RAG Pipeline
-
-Hands-on Retrieval-Augmented Generation pipeline: document ingestion, chunking, vector indexing, semantic retrieval, and grounded LLM response generation. Built to understand RAG internals before deploying one in production.
-
-`Python` · `LangChain` · `Hugging Face` · `Vector store`
-
----
-
 ## 🔓 Open-Source Contributions
 
 **[`unsloth-zoo`](https://github.com/unslothai/unsloth-zoo) — GGUF Shard Validation Fix**
@@ -141,22 +125,17 @@ Ansible playbooks · Inventories · Roles · Handlers · Variables · Vault · R
 
 ## 🚀 Currently Growing Into
 
-- Deepening **RHEL + Ubuntu** administration and hardening
-- **Ansible** roles, collections, and idempotency patterns
-- **Docker** fundamentals and Compose
-- **AWS** — EC2, IAM, VPC, managed services
 - **RAG pipelines** — retrieval quality, embedding strategies, LLM grounding
 - **AI agents** — agentic task planning applied to infrastructure operations
 - **Fine-tuning concepts** — LoRA, QLoRA, GGUF export, quantization
-- Cleaner **open-source contributions** with better PR discipline
+
 
 ---
 
 ## 📈 Contribution Approach
 
-My graph reflects focused project bursts — not a daily streak. I contribute when I am actively building something: a provisioning lab, an API, an open-source fix, or an AI experiment. 221 contributions in the past year across infra projects, hackathons, and targeted OSS patches.
+My graph reflects focused project bursts — trying to constantly build upon it. I contribute when I am actively building something: a provisioning lab, an API, an open-source fix, or an AI experiment. 221 contributions in the past year across infra projects, hackathons, and targeted OSS patches.
 
-I prefer 10 meaningful commits over 100 empty ones.
 
 ---
 
@@ -172,4 +151,3 @@ Linux System Administrator · Technical Support Engineer · DevOps Support · Cl
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" />
 </p>
 
-<p align="center"><i>Every line committed here is something I can explain.</i></p>
