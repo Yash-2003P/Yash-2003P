@@ -142,9 +142,6 @@ Added JSONL validation fixtures, normalization and validation logic, example que
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-2003P&layout=compact&theme=tokyonight&langs_count=6" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash-2003P&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
 
 ---
 
