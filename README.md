@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-**2025 B.Tech CSE graduate (CGPA 9.43)** — Red Hat Certified (RHCSA + RHCE), currently deepening skills in Linux infrastructure, DevOps automation, cloud deployments, and AI-assisted infrastructure tooling.
+**Grad with Red Hat Certified (RHCSA + RHCE), currently deepening skills in Linux infrastructure, DevOps automation, cloud deployments, and AI-assisted infrastructure tooling.
 
 I learn by building: homelab VMs, provisioning scripts, REST API backends, open-source patches, and now RAG pipelines and LLM-agent experiments. My GitHub documents that journey — not every day, but every meaningful step.
 
@@ -112,14 +112,6 @@ Reproducible Ubuntu Server VM baseline for practicing real-world Linux provision
 Covers idempotent Bash provisioning, Nginx + systemd service setup, UFW firewall rules, a Python health-check endpoint, PASS/FAIL/WARN validation output, reboot-survival testing, and full hardening documentation.
 
 `Bash` · `Nginx` · `systemd` · `UFW` · `Python` · `Ubuntu 24.04` · `VMware`
-
----
-
-### 🌐 [College-Appointment-System](https://github.com/Ypsh2304/College-Appointment-System) — REST API Backend
-
-Full appointment workflow API: JWT authentication, student/professor role separation, availability slot management, booking and cancellation, Mongoose models, Postman testing, and AWS EC2 + Amazon DocumentDB deployment.
-
-`Node.js` · `Express` · `MongoDB` · `JWT` · `Postman` · `AWS EC2` · `DocumentDB`
 
 ---
 
