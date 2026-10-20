@@ -1,4 +1,6 @@
-## Yash-2003P
+## Subh Wardhan
+
+GitHub: [Yash-2003P](https://github.com/Yash-2003P) · RHCSA & RHCE certified · Open Source explorer
 
 Contributor to [Kestra](https://github.com/kestra-io/kestra) — the declarative orchestration engine for data workflows.
 
