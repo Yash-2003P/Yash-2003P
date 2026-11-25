@@ -6,7 +6,7 @@ engine for data workflows.
 
 ### Open Source Contributions
 
-[![Contributor](https://img.shields.io/badge/2%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:Yash-2003P+is:pr+is:merged&type=pullrequests)
+[![Contributor](https://img.shields.io/badge/1%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:Yash-2003P+is:pr+is:merged&type=pullrequests)
 
 ### Merged pull requests to Kestra
 
@@ -19,9 +19,6 @@ engine for data workflows.
   alone. `ExecutionRoot.vue` no longer casts `routeInfo` before `useRouteContext`, because both
   branches of that computed already produce a string title. Both files drop out of the
   `explicit-any` baseline the project keeps under `ui/scripts/explicit-any/`.
-- **refactor(ui): replace the text-success Bootstrap utility in AddTriggerModal.vue**
-  ([#21145](https://github.com/kestra-io/kestra/pull/21145)) — swapped a Bootstrap utility class
-  for the design system's own token.
 
 ### Stack
 
